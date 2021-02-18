@@ -1,0 +1,29 @@
+.create-user-container {
+    padding: 10px;
+    .user-label {
+        padding: 10px;
+        font-size: 14px;
+        font-weight: 600;
+    } 
+}
+
+.form-container {
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    align-items: flex-start;
+}
+
+.item {
+    padding: 10px;
+    width: 50%;
+}
+
+.width-100{
+    width: 100%;
+}
+
+.btn-submit {
+   float: right;
+}
